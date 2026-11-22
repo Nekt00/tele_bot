@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.bak
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+postgres_data/
+backups/
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.tar.gz
+*.pid
+project_report.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
